@@ -3,7 +3,7 @@
 
 ## I'm Matheus, a Brazilian guy that love codes.
 
-- 📚 I’m currently learning everything C# and Java  
+- 📚 I’m currently learning C# and Java  
 - 💪🏼 Future Goals: Understand better how to code and start my first program all by myself.
 - ⚡ Some random thing: I'm really into games.
 
