@@ -10,7 +10,7 @@
 
 
 
-## Languages that I "know"
+## Languages that I know
 <div>
 <image align="center"height="120em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" ">
 <image align="center" height="120em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
