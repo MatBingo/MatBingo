@@ -16,7 +16,7 @@
 <div>
 <image height="40em" src="https://camo.githubusercontent.com/4b645f4b9da6e6f8c6d5edc408f4b786805678aaffc90555893cb13f6b726b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465">
 
-<image height="40em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<image height="50em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 <image height="40em" src="https://camo.githubusercontent.com/cf1a49b0e15f9c42fc747bf4b105afc42bfd53d27b566a6d32dbc177fedb4af8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465">
 </div>
