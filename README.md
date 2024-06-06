@@ -14,7 +14,7 @@
 
 ## Languages that I use
 <div>
-<image align="center"height="120em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" ">
+<image align="center"height="120em" src="https://camo.githubusercontent.com/4b645f4b9da6e6f8c6d5edc408f4b786805678aaffc90555893cb13f6b726b02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d7768697465">
 <image align="center" height="120em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
 </div>
 
