@@ -19,7 +19,7 @@
 </div>
 
 <div>
-  <h2 align="center"> Here my Github Statistics </h2>
+  <h2 align="center"> Here's my Github Stats</h2>
   
   <div align="center"> 
      <a href="">
