@@ -7,7 +7,7 @@
 
 - 💪🏼 Future Goals: Be able to create entire aplications all from scratch.
 
-- ⚡ Some random thing: I'm really into games and I'm also really competitive.
+- ⚡ Some random thing: I'm really into RPGs 🤓
 
 
 
