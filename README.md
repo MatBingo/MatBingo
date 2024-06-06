@@ -1,4 +1,4 @@
-9# Sup!
+# Sup!
 
 ## I'm Matheus, a Brazilian guy that love computers.
 <img align="right" alt="GIF" height="120px" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif"/>
