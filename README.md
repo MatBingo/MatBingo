@@ -7,7 +7,7 @@
 
 - 💪🏼 Future Goal: Work as a Software developer
 
-- ⚡ One curiosityabout me: I'm really into RPGs 🤓
+- ⚡ One curiosity about me: I'm really into RPGs 🤓
 
 
 
