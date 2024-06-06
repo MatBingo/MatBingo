@@ -5,9 +5,9 @@
 
 - 📚 I’m currently learning C#
 
-- 💪🏼 Future Goals: Be able to create entire aplications all from scratch.
+- 💪🏼 Future Goal: Be able to create entire aplications all from scratch.
 
-- ⚡ Some random thing: I'm really into RPGs 🤓
+- ⚡ One curiosityabout me: I'm really into RPGs 🤓
 
 
 
