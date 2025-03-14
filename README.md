@@ -12,18 +12,17 @@
 
 
 
-## My skills
+<!--## My skills
 <div>
-<!-- <image height="40em" src="">
+<image height="40em" src="">
 
-<!--<image height="40em" src="">
+<image height="40em" src="">
 
-<!--<image height="40em" src="">-->
-</div>
+<image height="40em" src="">
+</div>-->
 
 <div>
   <h2 align="center">Github Stats</h2>
-  
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatBingo&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
