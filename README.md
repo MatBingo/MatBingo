@@ -14,11 +14,11 @@
 
 ## My skills
 <div>
-<image height="40em" src="">
+<!-- <image height="40em" src="">
 
-<image height="40em" src="">
+<!--<image height="40em" src="">
 
-<image height="40em" src="">
+<!--<image height="40em" src="">-->
 </div>
 
 <div>
