@@ -8,10 +8,6 @@
 - 💪🏼 Future Goal: Work as a Software developer
 
 - ⚡ One curiosity about me: I'm really into RPGs 🤓
-
-
-
-
 <!--## My skills
 <div>
 <image height="40em" src="">
@@ -20,7 +16,6 @@
 
 <image height="40em" src="">
 </div>-->
-
 <div>
   <h2 align="center">Github Stats</h2>
   <div align="center"> 
